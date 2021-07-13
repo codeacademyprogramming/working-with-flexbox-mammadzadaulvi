@@ -1,0 +1,134 @@
+ul{
+    list-style-type: none;
+    margin-top: 30px;
+}
+li{
+    float: left;
+}
+#help{
+    margin-left: 130px;
+}
+#privacy{
+    margin-left: 30px;
+}
+#terms{
+    margin-left: 30px;
+}
+
+
+.left{
+    float: left;
+    font-size: 40px;
+    width: 200px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: midnightblue;
+}
+.right{
+    float: right;
+    text-decoration: none;
+}
+
+.second{
+    display: flex;
+    height: 300px;
+    justify-content:stretch;
+    align-items: center; 
+}
+
+.button{
+    display: flex;
+    justify-content:center;
+    align-items: center; 
+    width: 150px;
+    height: 50px;
+    background-color: midnightblue;
+    border-radius: 10px;
+    justify-content:center;
+    margin-left: 45%;
+}
+
+.empty{
+    width: 1200px;
+    height: 100px;
+    background-color: white;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+.flex-container > div {
+    background-color: #33ac3d;
+    width: 200px;
+    margin: 20px;
+    text-align: center;
+    line-height: 150px;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+.nese{
+    text-align: center;
+}
+
+.flex-container2 {
+    display: flex;
+    justify-content: center;
+  }
+  
+.flex-container2 > div {
+    background-color: #19185c;
+    width: 200px;
+    margin: 20px;
+    text-align: center;
+    line-height: 150px;
+    font-size: 15px;
+}
+
+
+.flex-container3 {
+    display: flex;
+    justify-content: center;
+  }
+  
+.flex-container3 > div {
+    background-color: #19185c;
+    width: 200px;
+    margin: 20px;
+    text-align: center;
+    line-height: 150px;
+    font-size: 15px;
+    border-radius: 90%;
+}
+
+.post-footer-first-div {
+    margin-left: 10px;
+    width: 40px;
+    height: 15px;
+    margin-top: 12px;
+    border-radius: 8px;
+}
+
+.post-footer-div-wrap {
+    display: flex;
+    margin-left: 90px;
+}
+
+.post-footer-div {
+    width: 15px;
+    height: 15px;
+    margin: 5px;
+    margin-top: 12px
+
+}
+
+.new{
+    width: 256px;
+    margin-left: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
